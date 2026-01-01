@@ -7,6 +7,10 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-7.1.6-purple)
 
+## Website
+
+you can access the website from this url: nameerbeedassy.netlify.app
+
 ## ✨ Features
 
 - **Modern Dark Theme** - Sleek dark UI with gradient accents and glassmorphism effects
